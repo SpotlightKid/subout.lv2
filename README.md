@@ -16,7 +16,7 @@ speaker.
 * Install FAUST and LV2 headers
 * Run `./compile.sh`
 
-    Add the `-qui` command line option, if you want to enable the standard
+    Add the `-gui` command line option, if you want to enable the standard
     FAUST custom plugin UI (note: the custom UI may not work in some LV2
     hosts, just use the host-generated UI instead).
 
